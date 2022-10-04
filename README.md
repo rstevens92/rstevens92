@@ -10,8 +10,7 @@ I have been learning, HTML, CSS/SASS, Javascript and React. We have also been le
 ###Some of my projects to look at include:
 
 * [React page which used the Punk API](https://github.com/rstevens92/ReactPunkIpaChallenge "React Punk API")
+* [Javascript Morse Code Translator](https://github.com/rstevens92/morse-code-challenge "Morse Code Translator")
+* [Javascript Simon Says Game](https://github.com/rstevens92/Simon-Says-Game "Simon Says")
 
-* https://github.com/rstevens92/ReactPunkIpaChallenge - React Page which used the Punk API
-* https://github.com/rstevens92/morse-code-challenge - Javascript Morse Code Translator
-* https://github.com/rstevens92/Simon-Says-Game - Javascript Simon Says Game
 check my repositories out for more!
