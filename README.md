@@ -1,4 +1,4 @@
-**Hi I'm Rachael!**
+# **Hi I'm Rachael!**
 
 
 I am a front end web developer based in Bristol. I have been training with _Nology on their self-paced course around being a full time mum. 
